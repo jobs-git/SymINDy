@@ -9,6 +9,6 @@ setup(name='symindy',
     package_dir={"": "src"},
     url = "https://github.com/andreikitaitsev/SymINDy",
     packages=find_packages(where="src"),
-    python_requires="<=3.9.13",
+    python_requires=">=3.9.13",
     license = "MIT"
     )
